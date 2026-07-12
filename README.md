@@ -1,4 +1,5 @@
-# Student Study Habits Analysis
+# Study Sense Learn Lens
+# Student Habits Analysis
 
 ## Project Overview
 
@@ -48,7 +49,8 @@ The dataset includes information such as:
 ## Project Structure
 
 ```
-student-study-habits-analysis/
+Study Sense Learn Lens
+student-habits-analysis/
 │
 ├── analysis.ipynb
 ├── README.md
@@ -115,13 +117,13 @@ This project demonstrates how Python can be used to analyze educational datasets
 1. Clone the repository.
 
 ```
-git clone https://github.com/Areeba89023/student-study-habits-analysis.git
+git clone https://github.com/Areeba89023/study-sense-learn-lens.git
 ```
 
 2. Navigate to the project folder.
 
 ```
-cd student-study-habits-analysis
+cd https://github.com/Areeba89023/study-sense-learn-lens.git
 ```
 
 3. Install the required libraries.
@@ -141,3 +143,4 @@ analysis.ipynb
 ## Author
 
 **Areeba Ashraf**
+
